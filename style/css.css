@@ -32,6 +32,9 @@
     overflow: hidden;
 
 }
+.div-ul li{
+    
+}
 
 .video{
 width: 100%;
@@ -47,6 +50,9 @@ filter: brightness(60%);
 
 }
 
+.col-lg-4 p{
+    text-align: center;
+}
 
 .text{
     position: absolute;
